@@ -1,0 +1,23 @@
+{
+  "name": "nats-go",
+  "version": "1.0.0",
+  "description": "Summer Fellowship 2022 Hackathon Project. Building a NATS system with Go and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MLH-Fellowship/nats-go-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MLH-Fellowship/nats-go-js/issues"
+  },
+  "homepage": "https://github.com/MLH-Fellowship/nats-go-js#readme",
+  "dependencies": {
+    "nats": "^2.7.1"
+  }
+}
